@@ -19,4 +19,4 @@ print(' '.join(descobertas))
 if '_' not in descobertas:
     print('Parabéns você ganhou')
 else:
-    print('Você perdeu, a palavra correta era {palavra}')
+    print(f'Você perdeu, a palavra correta era {palavra}')

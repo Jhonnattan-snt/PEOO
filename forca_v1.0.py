@@ -141,7 +141,7 @@ while True:
               =========''')
         print('{} Você perdeu, a palavra correta era {}'.format(jogador,palavra))
         print('Você usou as letras {}'.format(letras_usadas))
-    print('"Rodada completa')
+    print('Rodada completa')
     print(60 * ('-'))
 
     # Pergunta se o jogador deseja jogar novamente
